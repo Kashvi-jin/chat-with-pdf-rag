@@ -1,0 +1,61 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Vector Database
+chromadb
+
+# Embedding Models
+sentence-transformers
+langchain-huggingface
+transformers
+torch
+
+# LLM Providers
+langchain-google-genai
+google-generativeai
+
+langchain-openai
+openai
+
+langchain-mistralai
+mistralai
+
+# Environment Variables
+python-dotenv
+
+# Document Loaders
+pypdf
+pymupdf
+unstructured
+python-docx
+beautifulsoup4
+lxml
+
+# Tokenization
+tiktoken
+
+# Web Scraping
+requests
+
+# Utilities
+numpy
+pandas
+
+# API Framework (if deploying)
+fastapi
+uvicorn
+
+# Streamlit (if creating UI)
+streamlit
+
+# Evaluation and Experiment Tracking (Optional)
+ragas
+datasets
+
+# For Jupyter Notebooks (Optional)
+jupyter
+ipykernel
+arxiv
